@@ -3,7 +3,7 @@
 #### My name is Justen, and I am a Software Engineer / Full-Stack Developer from Los Angeles, CA
 ---
 
-I am currently working at [useracquisition.com](https://www.useracquisition.com) and doing freelance / contract work as myself, at [justenphelps.com](https://www.justenphelps.com)
+I am currently working at [useracquisition.com](https://www.useracquisition.com) and doing freelance / contract work as myself at [justenphelps.com](https://www.justenphelps.com)
 
 My main skills are:
 - React
