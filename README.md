@@ -21,6 +21,8 @@ I am currently diving into more Data Science based projects and have started wit
 [twitter.com/justen_phelps](https://twitter.com/justen_phelps)
 
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=justenbphelps.justenbphelps)
+
 <!--
 **justenbphelps/justenbphelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
