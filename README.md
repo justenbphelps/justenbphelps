@@ -12,8 +12,6 @@ My main skills are:
 - SQL (Postgres, BigQuery, MySQL, etc.)
 - Python
 
-I am currently diving into more Data Science based projects and have started with basic ML.
-
 💻 Personal Site:
 [justenphelps.com](https://www.justenphelps.com)
 
