@@ -3,6 +3,8 @@
 #### My name is Justen, and I am a Software Engineer / Full-Stack Developer from Los Angeles, CA
 ---
 
+![alt text](https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e472d3f3ab651b61dec4948a2aece093e7f6d993c6a&rid=giphy.gif "alt text")
+
 I am currently working at [useracquisition.com](https://www.useracquisition.com) and doing freelance / contract work as myself at [justenphelps.com](https://www.justenphelps.com)
 
 My main skills are:
