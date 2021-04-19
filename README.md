@@ -18,7 +18,7 @@ My main skills are:
 [justenphelps.com](https://www.justenphelps.com)
 
 🐦 Twitter:
-[twitter.com/justen_phelps](https://twitter.com/justen_phelps)
+[twitter.com/justenPhelps](https://twitter.com/justenPhelps)
 
 
 <!--
