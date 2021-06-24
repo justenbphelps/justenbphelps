@@ -14,7 +14,7 @@ My main skills are:
 - Python
 
 💻 Personal Site:
-[justenphelps.com](https://www.justen-phelps.netlify.app)
+[https://www.justen-phelps.netlify.app](https://www.justen-phelps.netlify.app)
 
 🐦 Twitter:
 [twitter.com/justenPhelps](https://twitter.com/justenphelps)
