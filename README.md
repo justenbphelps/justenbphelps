@@ -13,8 +13,5 @@ My main skills are:
 - SQL (Postgres, BigQuery, MySQL, etc.)
 - Python
 
-💻 Personal Site:
-[https://www.justen-phelps.netlify.app](https://www.justen-phelps.netlify.app)
-
 🐦 Twitter:
 [twitter.com/justenPhelps](https://twitter.com/justenphelps)
