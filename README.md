@@ -10,6 +10,7 @@ My main skills are:
 - React
 - Node
 - Express
+- Ruby / Ruby On Rails
 - SQL (Postgres, BigQuery, MySQL, etc.)
 - Python
 
